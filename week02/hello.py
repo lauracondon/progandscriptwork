@@ -1,5 +1,5 @@
-# helloWorld.py
-# This program just prints out hello World
+# hello.py
+# This program just prints out Hello Laura
 # author: Laura Condon
 
 print("Hello Laura")
