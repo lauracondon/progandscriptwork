@@ -3,7 +3,7 @@
 # author: Laura Condon
 
 # asks the user for their input and converts it to a float
-lodgement = float(input("Please enter the amount in dollars that you wish to convert: "))
+lodgement = float(input("Please enter the amount to convert from dollars to cents: "))
 # multiples by 100 to convert the input into cents
 cents = lodgement*100
 # returns the absolute value of the user's input as an integer
